@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/Willgrussell/wr-ecommerce.svg?branch=master)](https://travis-ci.org/Willgrussell/wr-ecommerce)
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
